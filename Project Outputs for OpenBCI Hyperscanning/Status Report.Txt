@@ -1,9 +1,11 @@
-Output: Bill of Materials
-Type  : BOM
+Output: Generates pick and place files
+Type  : Pick Place
 From  : Variant [[No Variations]] of Project [OpenBCI Hyperscanning.PrjPcb]
+   Generated File[Pick Place for OpenBCI Hyperscanning.txt]
+   Generated File[Pick Place for OpenBCI Hyperscanning.csv]
 
 
-Files Generated   : 0
+Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 11:40:04 On 10/06/2025
+Finished Output Generation At 17:19:35 On 10/06/2025

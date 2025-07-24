@@ -1,6 +1,6 @@
-DRC Rules Export File for PCB: C:\Users\thiag\OneDrive - UCB-O365\BML\OpenBCI Hyper Shield\OpenBCI Hyperscanning.PcbDoc
+DRC Rules Export File for PCB: D:\Documents\Git_Repos\OpenBCI-Wireless_Trigger\OpenBCI Hyperscanning.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=8.66
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=Clearance|RuleName=Stitching GND|Scope=Board|Minimum=5.00
