@@ -1,11 +1,12 @@
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [[No Variations]] of Project [OpenBCI Hyperscanning.PrjPcb]
-   Generated File[Pick Place for OpenBCI Hyperscanning.txt]
-   Generated File[Pick Place for OpenBCI Hyperscanning.csv]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [OpenBCI Hyperscanning.PrjPcb]
+   Generated File[OpenBCI Hyperscanning.TXT]
+   Generated File[OpenBCI Hyperscanning.LDP]
+   Generated File[OpenBCI Hyperscanning.DRR]
 
 
-Files Generated   : 2
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 17:19:35 On 10/06/2025
+Finished Output Generation At 12:24:12 On 01/10/2025

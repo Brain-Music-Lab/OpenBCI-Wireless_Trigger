@@ -55,7 +55,7 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D31
+    D30
     D34
     D36
     D37
@@ -125,7 +125,7 @@ Generating : Top Overlay
 
 
 Used DCodes :
-    D31
+    D30
     D34
     D42
     D43
@@ -249,6 +249,6 @@ Generating : Keep-Out Layer
 
 
 Used DCodes :
-    D31
+    D30
 *************************************************************
 
